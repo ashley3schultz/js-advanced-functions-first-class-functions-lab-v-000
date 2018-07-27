@@ -16,4 +16,4 @@ function createFareMultiplier(num) {
   }
 }
 
-createFareMultiplier(2)
+fareDoubler() = createFareMultiplier(2)
