@@ -3,4 +3,5 @@ function returnFirstTwoDrivers(drivers) {
   const arr = function () {
     drivers.slice(0, 2);
   }
+  return arr
 }
