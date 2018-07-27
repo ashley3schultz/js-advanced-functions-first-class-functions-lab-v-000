@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers(drivers) {
-  const function () {
+  const arr = function () {
     drivers.slice(0, 2);
   }
 }
