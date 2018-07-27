@@ -1,6 +1,4 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers(drivers) {
-  const fn = function () {
-    
-  }
+  return drivers.slice(1, 3);
 }
