@@ -7,4 +7,4 @@ const returnLastTwoDrivers = function (drivers) {
   return drivers.slice(2, 4);
 }
 
-const selectingDrivers = returnFirstTwoDrivers()
+const selectingDrivers = [returnFirstTwoDrivers(), returnLastTwoDrivers()]
